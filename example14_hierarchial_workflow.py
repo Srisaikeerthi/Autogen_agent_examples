@@ -1,4 +1,3 @@
-#example15_mcp_client.py
 import asyncio
 from autogen_agentchat.agents import AssistantAgent
 from autogen_agentchat.conditions import MaxMessageTermination

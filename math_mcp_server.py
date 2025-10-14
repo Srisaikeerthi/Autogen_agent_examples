@@ -1,3 +1,4 @@
+#example15_mcp_client.py
 #!/usr/bin/env python
 """Minimal MCP server for debugging - this uses stdio for communication."""
 import sys 
